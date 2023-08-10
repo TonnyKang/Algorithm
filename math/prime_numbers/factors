@@ -1,0 +1,13 @@
+prime number
+k=1*k
+
+non-prime number
+k=j*l
+(j>=2)
+(l<=k/2)
+
+k^0.5
+k 4~8 = 2
+k 9~15 = 3
+
+thus if j or l (the factors) cannot be larger than the number
